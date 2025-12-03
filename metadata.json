@@ -1,5 +1,5 @@
 {
-  "name": "SecureVote AI",
+  "name": "vote",
   "description": "A secure, AI-powered election system featuring voter OTP verification, real-time tallying, and AI-driven insights for administrators.",
   "requestFramePermissions": []
 }
